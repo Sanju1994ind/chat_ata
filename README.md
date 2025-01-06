@@ -18,4 +18,5 @@ pip install -r requirements.txt
 
 # Set up the database and run the Flask app:
 flask db upgrade
+
 flask run
